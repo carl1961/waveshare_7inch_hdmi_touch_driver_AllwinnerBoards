@@ -1,0 +1,1 @@
+# waveshare_7inch_hdmi_touch_driver_AllwinnerBoards
