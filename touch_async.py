@@ -107,4 +107,4 @@ if __name__ == "__main__":
 #        print(device.device_node)
 
         if 'add' in (device.get('ACTION')):
-check_device(device)
+            check_device(device)
