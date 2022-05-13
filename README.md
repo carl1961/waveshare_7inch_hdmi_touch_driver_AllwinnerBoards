@@ -8,6 +8,7 @@ https://www.waveshare.com/wiki/7inch_HDMI_LCD_(B)
 # Install
 
 git clone https://github.com/carl1961/waveshare_7inch_hdmi_touch_driver_AllwinnerBoards
+
 cd waveshare_7inch_hdmi_touch_driver_AllwinnerBoards
 
 chmod +x install.sh
